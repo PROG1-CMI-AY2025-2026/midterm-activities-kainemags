@@ -19,7 +19,7 @@ namespace MyConsoleApp
             }
             else
             {
-                return "You are not eligible to vote";
+                return "You are not eligible to vote.";
             }
         }
     }
