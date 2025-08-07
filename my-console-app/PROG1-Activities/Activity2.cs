@@ -12,7 +12,18 @@ namespace MyConsoleApp
             // if 'sunny' return message should be 'No umbrella needed.'
             // if response is not in the choices return 'Invalid weather condition.'
 
-            return "Invalid weather condition.";
+            if (weatherCondition == "rainy")
+            {
+                return "Bring an umbrella!";
+            }
+            else if (weatherCondition == "sunny")
+            {
+                return "No umbrella needed.";
+            }
+            else
+            {
+                return "Invalid weather condition.";
+            }
         }
     }
 }

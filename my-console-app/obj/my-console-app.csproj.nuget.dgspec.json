@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/midterm-csharp-activity/my-console-app/my-console-app.csproj": {}
+    "/workspaces/midterm-activities-kainemags/my-console-app/my-console-app.csproj": {}
   },
   "projects": {
-    "/workspaces/midterm-csharp-activity/my-console-app/my-console-app.csproj": {
+    "/workspaces/midterm-activities-kainemags/my-console-app/my-console-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/midterm-csharp-activity/my-console-app/my-console-app.csproj",
+        "projectUniqueName": "/workspaces/midterm-activities-kainemags/my-console-app/my-console-app.csproj",
         "projectName": "my-console-app",
-        "projectPath": "/workspaces/midterm-csharp-activity/my-console-app/my-console-app.csproj",
+        "projectPath": "/workspaces/midterm-activities-kainemags/my-console-app/my-console-app.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/midterm-csharp-activity/my-console-app/obj/",
+        "outputPath": "/workspaces/midterm-activities-kainemags/my-console-app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

@@ -988,11 +988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/midterm-csharp-activity/my-console-app.Tests/my-console-app.Tests.csproj",
+      "projectUniqueName": "/workspaces/midterm-activities-kainemags/my-console-app.Tests/my-console-app.Tests.csproj",
       "projectName": "my-console-app.Tests",
-      "projectPath": "/workspaces/midterm-csharp-activity/my-console-app.Tests/my-console-app.Tests.csproj",
+      "projectPath": "/workspaces/midterm-activities-kainemags/my-console-app.Tests/my-console-app.Tests.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/midterm-csharp-activity/my-console-app.Tests/obj/",
+      "outputPath": "/workspaces/midterm-activities-kainemags/my-console-app.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -1007,8 +1007,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/workspaces/midterm-csharp-activity/my-console-app/my-console-app.csproj": {
-              "projectPath": "/workspaces/midterm-csharp-activity/my-console-app/my-console-app.csproj"
+            "/workspaces/midterm-activities-kainemags/my-console-app/my-console-app.csproj": {
+              "projectPath": "/workspaces/midterm-activities-kainemags/my-console-app/my-console-app.csproj"
             }
           }
         }

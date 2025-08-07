@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/LTHtvkLQUo=",
+  "dgSpecHash": "geOU6QdfSyc=",
   "success": true,
-  "projectFilePath": "/workspaces/midterm-csharp-activity/my-console-app.Tests/my-console-app.Tests.csproj",
+  "projectFilePath": "/workspaces/midterm-activities-kainemags/my-console-app.Tests/my-console-app.Tests.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
